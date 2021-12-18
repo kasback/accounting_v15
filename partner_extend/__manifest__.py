@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
 {
-    "name": u"Ajout champs divers dans la fiche partenaire",
+    "name": u"Ajout champs divers dans la fiche partenaire selon la réglementation Marocaine",
     "version": "13.0",
-    "depends": ['base', 'product', 'account'],
+    "depends": ['base'],
     "author": "Andema",
     "summary": "IF, RC, CNSS, ICE, TP, ...",
     'website': 'http://www.andemaconsulting.com',

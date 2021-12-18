@@ -2,7 +2,7 @@
 
 
 {
-    'name': u'Code TVA',
+    'name': u'Ajout d\'un code TVA pour chaque type de taxe (81, 140...) selon le cahier de charge de la DGI',
     'version': '1.0',
     'author': 'Andema',
     'website': 'http://www.andemaconsulting.com',
